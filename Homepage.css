@@ -1,0 +1,149 @@
+body {
+    background-image: url(./Images/as.jpg);
+    background-size: cover;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: green;
+}
+
+
+.log{
+    float: left;
+    padding: 10px;
+    position: fixed;
+    }
+
+
+nav{
+  
+    border: 5px;
+    color: white;
+    border-radius: 5px;
+    text-align: right;
+    margin-top: 0px;
+    padding: 5px;
+    word-spacing: 10px;
+  
+}
+
+@media screen and (max-width: 700px) {
+    nav {
+        width: 46%;
+    }
+}
+
+
+a {
+    color: white;
+}
+
+h1{
+    color:green;
+    margin-top: 100px;
+}
+
+.discover {
+    font-family:fantasy
+}
+
+.container {
+    margin: 1%;
+    display: flex;
+    padding: 0px ;
+    width: 23%;
+    float: left;
+    margin-top: 0px;      
+}
+
+@media screen and (min-width: 700px) {
+    .container {
+        width: 46%;
+    }
+}
+
+.fruits{
+    background-color:green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;   
+}
+
+.container1 {
+background-color:green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Grain {
+     background-color:green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.container2 {
+    background-color:green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Livestock {
+    background-color: green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.container3 {
+    background-color: green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Tubers {
+    background-color: green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.container4 {
+    background-color: green;
+    color: white;
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    margin: 10px;
+}
+
+h3 {
+    color: white;
+
+}
+
+.Acheive {
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+

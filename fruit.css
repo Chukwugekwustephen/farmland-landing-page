@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+
+.products{
+    text-align: center;
+    color: green;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+
+
+@media screen and (min-width: 700px) {
+    .products {
+        width: 46%;
+    }
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+

@@ -1,0 +1,45 @@
+body{
+    background-image: url(./Images/OR.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.link{
+    float: right;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    word-spacing: 30px;
+    } 
+
+    img {
+    float: left;
+    padding: 10px;
+    }
+
+    h3{
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .Register{
+        background-color: blue;
+        color: white;
+    }
+
+    .connect{
+        border-color: #0000ff;
+        border-radius: solid 2em;
+        background-color:  rgb(250, 246, 246);
+        padding: 10px;
+        margin: 2%  auto;
+        width: 350px;
+    }
+    .footer{
+        border-radius: blue solid ;
+        color: blue;
+        text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }

@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+.products{
+    text-align: center;
+    color: green;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+

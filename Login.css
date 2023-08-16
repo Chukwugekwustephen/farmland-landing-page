@@ -1,0 +1,109 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ body{
+   
+     background-size:cover;
+     background-position: center;
+     animation: alternate-reverse;
+     animation-duration: 2ms;
+     
+ }
+ h1 {
+     text-align: center;
+     color: white;
+     border-radius: 3rem;
+     margin-top: 40px;
+ }
+
+.okay{
+ margin-top: 40px;
+}
+.form-box{
+    background-color: gray;
+    width: 450px;
+    margin: 12%  auto;
+    padding-top: 0px;
+    box-shadow: whitesmoke;
+    border-radius: 4em;
+    
+}
+
+img{
+    border-radius: 3em;
+}
+
+.name{
+    display: flex;
+    height: 40px;
+    width: 200px;
+    background-color:black;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 105px;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-radius: 8px;
+    border-right: 40px;
+    justify-content: space-between;
+    
+    
+}
+
+.email{
+    display: flex;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 105px;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-radius: 8px;
+    border-right: 40px;
+
+}
+
+.password{
+    display: flex;
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 105px;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-radius: 8px;
+    border-right: 40px;
+}
+
+.sign-up{
+    display: flex;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(200, 200, 223);
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 105px;
+    margin-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    border-radius: 8px;
+    border-right: 40px;
+    
+}
+
+.sign-up:hover{
+    background: blue;
+}
